@@ -1,1 +1,1 @@
-# Bachelor-Thesis-Object-Detection-Model
+# Bachelor-Thesis_Object-Detection-Model
